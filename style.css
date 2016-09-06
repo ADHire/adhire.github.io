@@ -1,0 +1,72 @@
+body {
+  background-color: #403f3f;
+  color: white;
+  font-family: 'Share Tech Mono', monospace;;
+}
+
+li {
+  display: inline;
+  list-style: none;
+}
+
+/*Header and Footer*/
+.header {
+  margin-top: 5%;
+}
+
+.page-header {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.headingLinks {
+  text-align: center;
+  margin-top: 1.9%;
+}
+
+/*Links*/
+a {
+  font-size: 15px;
+}
+
+/*Main Content*/
+.mainContent {
+  margin-top: 6%;
+}
+
+.clearingBot {
+  margin-bottom: 6%;
+}
+
+.cent {
+  text-align: center;
+}
+
+.skillPic {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.picRow {
+  margin: 15px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.projectRow {
+  margin-top: 20px;
+}
+
+.projectP {
+  margin-top: 12px;  
+}
+
+.resumeLink {
+  text-align: center;
+  font-size: 20px;
+}
