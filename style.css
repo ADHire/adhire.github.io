@@ -24,6 +24,16 @@ li {
   margin-top: 1.9%;
 }
 
+h2 {
+  display: inline;
+}
+
+.smallTitle {
+  margin-left: 35px;
+  display: inline;
+  color: white;
+}
+
 /*Links*/
 a {
   font-size: 15px;
@@ -63,7 +73,7 @@ a {
 }
 
 .projectP {
-  margin-top: 12px;  
+  margin-top: 12px;
 }
 
 .resumeLink {
